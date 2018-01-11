@@ -3,7 +3,7 @@ package pruebapr;
 
 /**
  *
- * @author jvidalmoreira
+ * @author dani
  */
 public class Pruebapr {
 
@@ -11,6 +11,9 @@ public class Pruebapr {
        System.out.println("pull requests");
        
        System.out.println("Pull Request");
+       
+       System.out.println("Pull Request");
+       
     }
     
 }
